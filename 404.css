@@ -12,7 +12,7 @@ body {
     margin: 5em auto;
     padding: 2em;
     background: rgba(20, 20, 40, 0.8);
-    border: 2px solid #00ffcc;
+    border: 2px solid #0dff00;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 255, 204, 0.5);
     text-align: center;
@@ -21,13 +21,13 @@ body {
 h1 {
     font-size: 2.5em;
     color: #00ffcc;
-    text-shadow: 0 0 10px #00ffcc;
+    text-shadow: 0 0 10px ##0bd400;
     margin-bottom: 0.5em;
 }
 
 h2 {
     font-size: 1.5em;
-    color: #66ccff;
+    color: #078c00;
     margin: 1em 0 0.5em;
 }
 
@@ -47,13 +47,13 @@ ul li {
 }
 
 a {
-    color: #66ccff;
+    color: #078c00;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 a:hover {
-    color: #00ffcc;
+    color: #0bbf02;
     text-shadow: 0 0 5px #00ffcc;
 }
 
