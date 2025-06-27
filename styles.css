@@ -7,7 +7,7 @@ body {
 
 #header-bg {
     background: #fff;
-    height: 6em;
+    height: 5em;
 }
 
 #header-base {
@@ -54,9 +54,11 @@ body {
 }
 
 #logo {
-    width: 120px;
-    height: 120px;
-    margin: 0 auto 1em;
+    width: auto;
+    height: auto;
+    max-width: 150px;
+    max-height: 150px;
+    margin: 0 auto;
     background: url('https://paulgamerboy101.netlify.app/Images/PaulGamerBoy101Logo.jpeg') no-repeat center;
 }
 
