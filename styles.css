@@ -54,10 +54,8 @@ body {
 }
 
 #logo {
-    width: auto;
-    height: auto;
-    max-width: 150px;
-    max-height: 150px;
+    width: 10em;
+    height: 160px;
     margin: 0 auto 1em;
     background: url('https://paulgamerboy101.netlify.app/Images/PaulGamerBoy101Logo.jpeg') no-repeat center;
 }
